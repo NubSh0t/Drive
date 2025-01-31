@@ -1,5 +1,4 @@
 # Drive
-Driving game with car driving in a empty world
 
 **INCOMPLETE**
 
